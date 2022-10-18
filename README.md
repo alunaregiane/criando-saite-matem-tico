@@ -1,3 +1,3 @@
-# criando-site-matematico
+# criando-site-jogos-matematicos-mapa-africano
 
-O meu objetivo é criar um site que de acordo com os mapas africanos os estudantes entendam e de acordo com a história de cada região, consigam jogar e criar jogos no tabuleiro sobre os mesmos, utilizando a matemática
+O meu objetivo é criar um site que de acordo com os mapas africanos os estudantes entendam a história de cada região, consigam jogar e criar jogos no tabuleiro sobre os mesmos, utilizando a matemática.
